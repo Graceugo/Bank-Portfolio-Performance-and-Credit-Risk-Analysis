@@ -24,4 +24,40 @@ The original dataset of 38,576 records and 24 variables was cleaned and transfor
   - Identify customers characteristics associated with higher completed loan default rates.
   - Identify loan characteristics associated with increased default risk.
   - Evaluate the effectiveness of income verification in reducing loan default.
-  - Develop a profile of a high-risk borrower
+  - Develop a profile of a high-risk borrower.
+ 
+    ## Key Insights
+    The analysis identified several characteristics associated with a higher likelihood of loan default including:
+    - Low-income borrowers.
+    - High debt-to-income (DTI) ratios.
+    - Very large loans.
+    - Low credit grades particularly Grades G,F,E.
+    - Higher interest rates.
+    - 60-month repayment terms.
+    - loan requested for small business purposes.
+    - Geographic regions with relatively higher completed loan default rates.
+    These characteristics should not automatically result in loan rejection but can serve as indicator for enhanced credit assessment and additional risk evaluation.
+
+## Recommendations
+Based on the analysis and its findings, the following recommendations were made:
+- **Strengthen credit assessment for high-risk borrower groups:** Implement more robust credit assessment and additional risk evaluation for borrowers with characteristics associated with higher default tendencies, such as low income, high debt-to-income (DTI) ratios, very large loans, and lower credit grades.
+- **Monitor high-risk loan products and lending patterns more closely:** Increase scrutiny and monitoring of loan segments associated with higher default tendencies, including higher-interest loans, lower credit grades, and loans taken for higher-risk purposes such as Small Business.
+- **Encourage appropriate repayment terms where feasible:** Review repayment structures carefully, particularly for loans with longer terms, and encourage repayment arrangements that better align with borrowers' financial capacity.
+- **Improve geographic credit risk monitoring:** Pay closer attention to geographic regions with relatively higher completed loan default rates to support more proactive credit risk management.
+- **Continue strengthening affordability and repayment capacity assessments:** Give greater consideration to borrower income levels, debt-to-income ratios, and overall long-term repayment capacity during credit assessment.
+- **Implement continuous portfolio monitoring using business intelligence dashboards:** Use dashboards to continuously track loan performance, emerging lending patterns, geographic risk, and changes in portfolio credit risk.
+
+## Repository Contents
+This repository contains:
+**Dataset** - Cleaned and transformed data used for the analysis.
+**SQL** - SQL queries used during the project.
+**Power BI** - Power BI dashboard and analysis files.
+**Presentation** - Capstone Project presentation.
+**Images** - Dashboard screenshots and project visuals.
+**Report** - Project Report for more detailed access to full methodology, analysis, findings and recommendations.
+
+## Author
+**Grace Olunumelu**
+
+---
+*This project was completed as part of the Techcrush Data Analytics Scholarship Programme.*
