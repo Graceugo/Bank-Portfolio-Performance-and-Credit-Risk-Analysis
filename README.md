@@ -26,6 +26,24 @@ The original dataset of 38,576 records and 24 variables was cleaned and transfor
   - Evaluate the effectiveness of income verification in reducing loan default.
   - Develop a profile of a high-risk borrower.
  
+    ## Power BI Dashboard
+    The dashboard presents the analysis across the six objectives:
+ 
+    ### 1. Executive Overview
+    ![Executive Overview] (images/01-executive-overview.jpeg)
+ 
+    ### 2. Customer Risk Analysis
+    ![Customer Risk Analysis] (images/02-customer-risk-analysis.jpeg)
+ 
+    ### 3. Loan Risk Analysis
+    ![Loan Risk Analysis] (images/03-loan-risk-analysis.jpeg)
+ 
+    ### 4. Geographic Credit Analysis
+    ![Geographic Credit Risk] (images/04-geographic-risk-analysis.jpeg)
+ 
+    ### 5. Income Verification and High Risk Profile
+    ![Income Verification and High Risk Profile] (images/05-income-verification-and-high-risk-profile)
+    
     ## Key Insights
     The analysis identified several characteristics associated with a higher likelihood of loan default including:
     - Low-income borrowers.
