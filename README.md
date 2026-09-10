@@ -38,10 +38,10 @@ The original dataset of 38,576 records and 24 variables was cleaned and transfor
     ![Loan Risk Analysis](images/03-loan-risk-analysis.jpeg)
  
     ### 4. Geographic Credit Analysis
-    ![Geographic Credit Risk](images/04-geographic-risk-analysis.jpeg)
+    ![Geographic Credit Risk](images/04-geographic-credit-risk.jpeg)
  
     ### 5. Income Verification and High Risk Profile
-    ![Income Verification and High Risk Profile](images/05-income-verification-and-high-risk-profile)
+    ![Income Verification and High Risk Profile](images/05-income-verification-and-high-risk-profile.jpeg)
     
     ## Key Insights
     The analysis identified several characteristics associated with a higher likelihood of loan default including:
